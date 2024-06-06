@@ -1,3 +1,6 @@
+import './ui/global.css';
+import { lusitana, montserrat } from './ui/fonts';
+
 export default function RootLayout({
   children,
 }: {
